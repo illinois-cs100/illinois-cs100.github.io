@@ -17,8 +17,7 @@ title: CS 100 Computer Science Orientation
 description: >- # this means to ignore newlines until "baseurl:"
   © University of Illinois, 2024
 #baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://courses.engr.illinois.edu/cs418" # the base hostname & protocol for your site, e.g. http://example.com
-#url: "https://courses.engr.illinois.edu/cs418" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://courses.engr.illinois.edu/cs100" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shaffer1
 issues: https://github.com/illinois-cs100/illinois-cs100.github.io/issues/new
 # Build settings
